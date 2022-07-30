@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NDPSongs</string>
+    <string name="song_title">Song Title</string>
+    <string name="singers">Singer</string>
+    <string name="year">Year</string>
+    <string name="stars">Stars</string>
+    <string name="hint_song_title">Enter song title here</string>
+    <string name="hint_singers">Enter singers name here</string>
+    <string name="hint_year">Enter year of release here</string>
+    <string name="insert_button">Insert</string>
+    <string name="showlist_button">Show List</string>
+    <string name="tbFiveStars">Show All 5 Stars Songs</string>
+</resources>
